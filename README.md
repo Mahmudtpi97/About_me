@@ -2,7 +2,7 @@ https://media.licdn.com/dms/image/C5616AQFCPj3rtcc--Q/profile-displaybackgroundi
 
 ### Hi there 👋, my name is MD Mahmudul Hasan
 #### I am Web and WordPress Developer
-![I am Web and WordPress Developer]
+
 
 I am Front-End and WordPress Developer with 5+ years experience. I Love Web Design and Development. I am expert in using HTML, CSS, Bootstrap, jQuery, JS, PHP, MySQL, WordPress and Laravel (Learning). I love to others help. 
 
@@ -54,10 +54,9 @@ Skills: HTML / CSS / Bootstrap / JS / jQuery / PHP / MySQL / Laravel / WordPress
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mahmudtpi97)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![GitHub metrics](https://metrics.lecoq.io/Mahmudtpi97)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mahmudtpi97)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmudtpi97&show_icons=true&count_private=true)  
+![GitHub metrics](https://metrics.lecoq.io/Mahmudtpi97)  
 
 ![Profile views](https://gpvc.arturio.dev/Mahmudtpi97)  
