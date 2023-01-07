@@ -7,7 +7,7 @@
 ### I am Web and WordPress Developer
 
 
-I am Front-End and WordPress Developer with 5+ years experience. I Love Web Design and Development. I am expert in using HTML, CSS, Bootstrap, jQuery, JS, PHP, MySQL, WordPress and Laravel (Learning). I love to others help. 
+I am Web and WordPress Developer with 5+ years experience. I Love Web Design and Development. I am expert in using HTML, CSS, Bootstrap, jQuery, JS, PHP, MySQL, WordPress and Laravel. I love to others help. 
 
 Finally, I will try to give my clients best service until his satisfied, and give unlimited support. 
 
@@ -28,12 +28,12 @@ Finally, I will try to give my clients best service until his satisfied, and giv
 
 
 ****** If you need my services, please feel free contact me. ******
-
 Have a good day!
 Thank You
 MD Mahmudul Hasan
 
-### Skills: HTML / CSS / Bootstrap / JS / jQuery / PHP / MySQL / Laravel / WordPress 
+### Skills: 
+HTML / CSS / Bootstrap / JS / jQuery / PHP / MySQL / Laravel / WordPress 
 
 - 🔭 I’m currently working on https://www.fiverr.com/mahmudtpi97  
 - 🌱 I’m currently learning Laravel Advance / React and Others  
